@@ -1,74 +1,49 @@
 # Author settings
-name: 梁窠金
-title: Android 开发工程师
+name:刘引
+title: 兄弟连学员
 address: 中国, 上海
-email: liungkejin@foxmail.com
-github: liungkejin
+email: 281375229@281375229.com
+github: LY
 gavatar: /assets/img/avatar.JPG
 workHistory:
-- work4:
-  company: 上海本趣网络科技有限公司
-  location: 中国, 上海
-  title: Android & Unity & AR 开发工程师
-  started: 2016
-  duration: (2016.5 - Present)
-  description: 开发 "无他相机" 安卓端，使用 unity 实现 3D 特效
 
-- work3:
-  company: 上海大银幕网络科技有限公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2015
-  duration: (2015.10 - 2016.5)
-  description: 开发和维护 "公证电影" App
+- 成长经历
+  1. 济宁九品网络科技有限公司
+     - 和团队一起开发网站，并负责优化现有项目，部分项目经历有公司官网及后台开发
+  2. 齐鲁交通材料技术开发有限公司
+     - 负责开发网站管理后台，用户管理，系统消息管理，商品管理，订单及支付管理，交友模块以及交友后台管理内容的开发，保证商城、电商、后台内部系统三者之间数据无丢失，无错误。
 
-- work2:
-  company: 比亚迪精密制造上海分公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2014
-  duration: (2014.8 - 2015.8)
-  description: 在Android系统环境下修复所存在的 bug, 并开发新功能, 主要负责 RIL/Telephony
+------
 
-- work1:
-  company: 合肥卓远电子科技有限公司
-  location: 中国, 合肥
-  title: Linux 程序员
-  started: 2013
-  duration: (2013.6 - 2013.9)
-  description: 在嵌入式 Linux 环境下开发程序 (信号发生器，监控摄像头)
+- ### 培训经历
 
-educationHistory:
-- education1:
-  organization: 安徽大学
-  degree: 学士
-  major: 化学工程与工艺
-  started: 2010
-  duration: (2010.9 - 2014.7)
-  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
-languages:
-- language1:
-  name: 中文
-  proficiency: Native
-- language2:
-  name: English
-  proficiency: Limit
-programmingSkills:
-- Java:
-  name: Java/Android
-  percentage: 90%
-- Bash:
-  name: Bash Shell
-  percentage: 90%
-- CPP:
-  name: C/C++
-  percentage: 80%
-- PHP:
-  name: PHP
-  percentage: 30%
-- Python:
-  name: Python
-  percentage: 30%
-- Kotlin:
-  name: Kotlin
-  percentage: 70%
+  - #### 兄弟连兄弟会IT 培训。
+
+------
+
+- ### 教育经历
+
+  - 青岛科技大学
+
+    *计算机科学与技术专业*
+
+------
+
+- ### 代码经历
+
+  ##### 1、 拥有自动化、计算机、机械电子，有CAN总线开发相关经验证。
+
+  ##### 2、熟悉CAN/LIN等总线设计，可根据系统需求制定CAN总线协议；
+
+  ##### 3、 从事过CAN总线开发和测试相关的工作，能够编写CAN总线开发和测试规范等文档，熟悉CAN总线开发流程和相关工具的使用。
+
+  ##### 4、 会使用系统平台和服务器软件设计相应系统，应用多种语言编制相关系统软件；
+
+  ##### 5、 具备现场解决系统故障或问题的经验。
+
+------
+
+- ### 自我评价
+
+  ##### 本人性格开朗、稳重、有活力，待人热情、真诚；工作认真负责，积极主动，能吃苦耐劳，用于承受压力，勇于创新；有很强的组织能力和团队协作精神，具有较强的适应能力；纪律性强，工作积极配合；意志坚强，具有较强的无私奉献精神
+
