@@ -2,7 +2,7 @@
 layout: post_layout
 title:  jekyll安装及环境搭建、Github page博客
 time: 2019年08月15日 星期四
-location: 上海
+location: 北京
 pulished: true
 excerpt_separator: "```"
 ---
