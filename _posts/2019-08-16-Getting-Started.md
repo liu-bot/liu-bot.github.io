@@ -68,4 +68,4 @@ excerpt_separator: "```"
 
   - GDB代码
 
-    ![Screenshot_2019-08-16 gdb调试的基本使用 - zdy0_2004的专栏 - CSDN博客](../../Document/liu-bot.github.io/_posts/2019-08-16sample-post.assets/Screenshot_2019-08-16 gdb调试的基本使用 - zdy0_2004的专栏 - CSDN博客.png)
+    ![](2019-08-16-Getting-Started.assets/1.png)
