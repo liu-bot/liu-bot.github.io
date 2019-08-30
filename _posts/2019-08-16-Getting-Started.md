@@ -1,11 +1,15 @@
 ---
+typora-root-url: images
+typora-copy-images-to: images
+---
+
 layout: post_layout
 title: 学会像计算机一样思考，了解计算机操作系统以及编程语言工作原理
 time: 2019年08月16日 星期五
 location: 上海
 pulished: true
 excerpt_separator: "```"
----
+typora-root-url: images
 
 1. 观看视频《Linux C语言编程基本原理与实践》：https://www.imooc.com/learn/248
 2. 观看视频《Linux C语言指针与内存》：https://www.imooc.com/learn/394
@@ -68,4 +72,4 @@ excerpt_separator: "```"
 
   - GDB代码
 
-    ![](2019-08-16-Getting-Started.assets/1.png)
+    ![](/1.png)
