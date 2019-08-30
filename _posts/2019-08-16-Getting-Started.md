@@ -7,6 +7,7 @@ location: 上海
 pulished: true
 excerpt_separator: "```"
 typora-root-url: images
+typora-copy-images-to: images
 ---
 
 layout: post_layout
@@ -78,5 +79,5 @@ typora-root-url: images
 
   - GDB代码
   
-    ![](/1.png)
+    ![](https://github.com/liu-bot/liu-bot.github.io/tree/master/_posts/images/1.png)
   
