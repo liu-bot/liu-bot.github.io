@@ -1,7 +1,12 @@
 ---
 
-typora-copy-images-to: images
-typora-root-url: ./
+layout: post_layout
+title: 学会像计算机一样思考，了解计算机操作系统以及编程语言工作原理
+time: 2019年08月16日 星期五
+location: 上海
+pulished: true
+excerpt_separator: "```"
+typora-root-url: images
 ---
 
 layout: post_layout
@@ -73,4 +78,5 @@ typora-root-url: images
 
   - GDB代码
   
-  ![1](images/1.png)
+    ![](/1.png)
+  
