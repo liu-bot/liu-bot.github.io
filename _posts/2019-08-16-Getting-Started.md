@@ -1,6 +1,7 @@
 ---
 
 typora-copy-images-to: images
+typora-root-url: ./
 ---
 
 layout: post_layout
@@ -71,4 +72,5 @@ typora-root-url: images
 - 练习使用GDB进行代码测试，通过代码测试了解指针在内存中的作用。
 
   - GDB代码
-- ![](images/1.png)
+  
+  ![1](images/1.png)
