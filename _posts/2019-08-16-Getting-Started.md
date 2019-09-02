@@ -6,7 +6,7 @@ time: 2019年08月16日 星期五
 location: 上海
 pulished: true
 excerpt_separator: "```"
-typora-root-url: images
+
 typora-copy-images-to: images
 ---
 
@@ -79,5 +79,5 @@ typora-root-url: images
 
   - GDB代码
   
-    ![1](/1.png)
+    ![1](/images/1.png)
   
