@@ -79,5 +79,5 @@ typora-root-url: images
 
   - GDB代码
   
-    ![1](../images/1.png)
+    <img src="/_posts/images/1.png"/>
   
