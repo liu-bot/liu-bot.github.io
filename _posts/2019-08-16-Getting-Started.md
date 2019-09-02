@@ -79,5 +79,5 @@ typora-root-url: images
 
   - GDB代码
   
-    ![](https://github.com/liu-bot/liu-bot.github.io/tree/master/_posts/images/1.png)
+    ![1](/1.png)
   
