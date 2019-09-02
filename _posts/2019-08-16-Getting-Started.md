@@ -79,5 +79,6 @@ typora-root-url: images
 
   - GDB代码
   
-    <img src="/_posts/images/1.png"/>
+    <img src="/assets/img/1.png"/>
   
+
